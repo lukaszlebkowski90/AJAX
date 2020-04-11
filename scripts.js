@@ -13,5 +13,5 @@ function getJoke()asdad {
     var response = JSON.parse(xhr.response);
     paragraph.innerHTML = response.value.joke;
   });
-zmiany na vc code
+zmiany na vc code ciag dalszy 
 }
